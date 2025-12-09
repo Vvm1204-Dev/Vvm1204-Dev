@@ -20,7 +20,7 @@
   - [Online Voting System](https://github.com/Vvm1204-Dev/Online-Voting-System)
     
 - <b>Front End Mini Project (HTML, CSS and Javascript)</b>
-  - [Rock Paper and Scissor](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Rock Paper and Scissor]( https://github.com/Vvm1204-Dev/Rock-Paper-Scissors.git)
  <br>
   <b>✨ More to come...</b>
 
