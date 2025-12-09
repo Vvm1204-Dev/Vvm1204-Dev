@@ -21,6 +21,8 @@
     
 - <b>Front End Mini Project (HTML, CSS and Javascript)</b>
   - [Rock Paper and Scissor](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+ <br>
+  <b>✨ More to come...</b>
 
 <h2> 🤳 Connect with me:</h2>
 
