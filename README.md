@@ -3,7 +3,7 @@
 <h3> My Tech Stack:</h3>
 💻 Languages & Frameworks
 
-* 🌐 **Frontend:** HTML/CSS, JavaScript, React.js, Responsive Design
+* 🌐 **Frontend:** HTML5/CSS, JavaScript, React.js, Responsive Design
 * ⚙️ **Backend:** Java, REST APIs
 * 🗃️ **Databases:** DynamoDB, MySQL
 
